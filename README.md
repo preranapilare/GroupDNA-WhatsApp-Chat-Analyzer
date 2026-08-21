@@ -45,6 +45,3 @@ This project was developed as **Week 1 Minor Project** for **The Unlox Academy**
 3. Run all cells from top to bottom.
 4. The final GroupDNA report will be generated.
 
-## Author
-
-**Sarvesh Karavate**
